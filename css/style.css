@@ -492,7 +492,6 @@ footer {
   }
 }
 .fh5co-post .fh5co-entry > img {
-  float: right;
   width: 10%;
   margin-bottom: 30px;
   -webkit-border-radius: 50%;
@@ -874,4 +873,8 @@ footer {
   opacity: 0;
 }
 
+#vid1 {
+  width: 50%;
+  margin: 0 auto;
+}
 /*# sourceMappingURL=style.css.map */
